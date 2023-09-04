@@ -19,7 +19,7 @@ I have over 5 years of experience in data analytics, working with diverse datase
 ### 📈 Featured Projects
 
 1. **[Project Name 1]** - [Short description of the project.](Link to the project repository)
-2. **[Project Name 2]** - [Short description of the project.](Link to the project repository)
+2. **[Iris Data Analysis]** - [Clustering analysis of the Iris dataset](https://github.com/athai1196/Iris-Data-Analysis/tree/main)
 3. **[Project Name 3]** - [Short description of the project.](Link to the project repository)
 
 [...more projects]
