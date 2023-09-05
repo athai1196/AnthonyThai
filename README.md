@@ -18,7 +18,7 @@ I have over 5 years of experience in data analytics, working with diverse datase
 
 ### 📈 Featured Projects
 
-1. **[Engagement Analysis between TikTok and Instagram]** - [Short description of the project.](https://github.com/athai1196/Engagement-Analysis-between-TikTok-and-Instagram)
+1. **[Engagement Analysis between TikTok and Instagram]** - [To understand the relationship between the number of followers and the engagement rate of influencers on TikTok and Instagram.](https://github.com/athai1196/Engagement-Analysis-between-TikTok-and-Instagram)
 2. **[Iris Data Analysis]** - [Clustering analysis of the Iris dataset](https://github.com/athai1196/Iris-Data-Analysis/tree/main)
 
 [...more projects]
