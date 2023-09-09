@@ -18,7 +18,7 @@ I have over 5 years of experience in data analytics, working with diverse datase
 
 ### 📈 Featured Projects
 
-1. 
+1. [Grocery Cart Synergies](https://github.com/athai1196/Grocery-Cart-Synergies/tree/main) - Market Basket Analysis with Groceries Market Basket Dataset
    
 [...more projects]
 
